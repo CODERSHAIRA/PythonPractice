@@ -1,0 +1,3 @@
+a=[3,56,765]
+print(56 in a)
+print(847567 in a)
